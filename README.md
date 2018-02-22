@@ -6,6 +6,6 @@ Este repositorio ha sido creado con [Create React App](https://github.com/facebo
 2. Clónalo en tu máquina.
 3. Ejecuta `npm install`.
 4. Ejecuta `npm test` y revisa qué pruebas están fallando.
-5. Crea el componente `Welcome` y verifica que las pruebas pasen.
+5. Implementa tu solución dentro del componente `App`. No necesitas crear ningún otro componente adicional.
 6. Haz commit y luego push a tu fork.
 7. Ingresa tu fork en la plataforma de Make it Real.
